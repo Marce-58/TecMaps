@@ -13,7 +13,10 @@ def buscar_edificio(nombre, edificios):
             return edificios[posicion]
         posicion += 1
     return ""
-
+# def dolor_de_cabeza(inicio, destino, conexiones)
+# me arrepiento completamente de mi eleccion de proyecto
+# me consumió mil años de vida entender como funcionaban las listas
+# me consumió otros 5mil años de vida entender como aplicarlas aquí
 def buscar_ruta(inicio, destino, conexiones):
     visitados = [inicio]
     pendientes = [[inicio, [[inicio, "Comienza aquí."]]]]
