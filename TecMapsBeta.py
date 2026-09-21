@@ -95,8 +95,8 @@ def main():
         [
             "Edificio II",
             "Edificio III",
-            "Sigue el camino hacia el Edificio III.",
-            "Sigue el camino hacia el Edificio II."
+            "Camina hacia el Edificio III.",
+            "Camina hacia el Edificio II."
         ],
 
         [
@@ -109,92 +109,92 @@ def main():
         [
             "Edificio III",
             "Centro de Bioingeniería",
-            "Sigue el andador hacia Centro de Bioingeniería.",
-            "Regresa por el andador hacia Edificio III."
+            "Camina hacia el Centro de Bioingeniería.",
+            "Camina hacia el Edificio III."
         ],
 
         [
             "Centro de Bioingeniería",
             "Edificio V",
-            "Camina hacia Edificio V.",
-            "Camina hacia Centro de Bioingeniería."
+            "Camina hacia el Edificio V.",
+            "Camina hacia el Centro de Bioingeniería."
         ],
 
         [
             "Edificio IV",
             "Centro de Medios",
-            "Sigue el camino hacia Centro de Medios.",
-            "Regresa hacia Edificio IV."
+            "Camina hacia el Centro de Medios.",
+            "Camina hacia el Edificio IV."
         ],
 
         [
             "Centro de Medios",
             "Biblioteca",
-            "Camina hacia Biblioteca.",
-            "Camina hacia Centro de Medios."
+            "Camina hacia la Biblioteca.",
+            "Camina hacia el Centro de Medios."
         ],
 
         [
             "Edificio V",
             "Biblioteca",
-            "Sigue el andador hacia Biblioteca.",
-            "Sigue el andador hacia Edificio V."
+            "Camina hacia la Biblioteca.",
+            "Camina hacia el Edificio V."
         ],
 
         [
             "Biblioteca",
             "Edificio de Servicios de Apoyo",
-            "Camina hacia Edificio de Servicios de Apoyo.",
-            "Camina hacia Biblioteca."
+            "Camina hacia el Edificio de Servicios de Apoyo.",
+            "Camina hacia la Biblioteca."
         ],
 
         [
             "Edificio de Servicios de Apoyo",
             "Centro de Congresos",
-            "Sigue el camino hacia Centro de Congresos.",
-            "Regresa hacia Edificio de Servicios de Apoyo."
+            "Camina hacia el Centro de Congresos.",
+            "Camina hacia el Edificio de Servicios de Apoyo."
         ],
 
         [
             "Centro de Congresos",
             "Centro Estudiantil",
-            "Camina hacia Centro Estudiantil.",
-            "Camina hacia Centro de Congresos."
+            "Camina hacia el Centro Estudiantil.",
+            "Camina hacia el Centro de Congresos."
         ],
 
         [
             "Centro Estudiantil",
             "Edificio XIV",
-            "Sigue el camino hacia Edificio XIV.",
-            "Regresa hacia Centro Estudiantil."
+            "Camina hacia el Edificio XIV.",
+            "Camina hacia el Centro Estudiantil."
         ],
 
         [
             "Edificio XIV",
             "Centro de Diseño, Innovación y Creación Industrial",
-            "Camina hacia DICI.",
-            "Regresa hacia Edificio XIV."
+            "Camina hacia el DICI.",
+            "Camina hacia el Edificio XIV."
         ],
 
         [
             "Centro de Diseño, Innovación y Creación Industrial",
             "Centro de Innovación en Manufactura Avanzada",
-            "Sigue el camino hacia CIMA.",
-            "Sigue el camino hacia DICI."
+            "Camina hacia el CIMA.",
+            "Camina hacia el DICI."
         ],
 
         [
             "Centro de Innovación en Manufactura Avanzada",
             "PrepaTec",
             "Camina hacia PrepaTec.",
-            "Camina hacia CIMA."
+            "Camina hacia el CIMA."
         ],
 
         [
             "Centro de Innovación en Manufactura Avanzada",
             "Estadio Borregos",
-            "Sigue el camino hacia el Estadio Borregos.",
-            "Regresa hacia CIMA."
+            "Camina hacia el Estadio Borregos.",
+            "Camina hacia el CIMA."
         ],
 
         [
