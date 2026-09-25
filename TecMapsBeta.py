@@ -1,9 +1,13 @@
+# mostrar lista de edificios
+
 def mostrar_edificios(edificios):
     x = 1
     print("Edificios disponibles:")
     while x <= len(edificios):
         print(x, "-", edificios[x-1])
         x += 1
+
+# comprobar que el edificio existe
 
 def buscar_edificio(nombre, edificios):
     nombre = nombre.lower().strip()
@@ -13,10 +17,9 @@ def buscar_edificio(nombre, edificios):
             return edificios[posicion]
         posicion += 1
     return ""
-# def dolor_de_cabeza(inicio, destino, conexiones)
-# me arrepiento completamente de mi eleccion de proyecto
-# me consumió mil años de vida entender como funcionaban las listas
-# me consumió otros 5mil años de vida entender como aplicarlas aquí
+    
+# def dolor_de_cabeza()
+
 def buscar_ruta(inicio, destino, conexiones):
     visitados = [inicio]
     pendientes = [[inicio, [[inicio, "Comienza aquí."]]]]
@@ -46,7 +49,9 @@ def buscar_ruta(inicio, destino, conexiones):
                     pendientes.append([siguiente, nueva_ruta])
             indice += 1
     return []
-        
+
+#imprimir ruta
+
 def mostrar_ruta(ruta):
     if len(ruta) == 0:
         print("No se encontró ruta")
@@ -65,7 +70,8 @@ def mostrar_ruta(ruta):
             x += 1
 def main():
 
-#Edificios
+#lista edificios
+    
     edificios = [
         "Edificio I",
         "Edificio II",
