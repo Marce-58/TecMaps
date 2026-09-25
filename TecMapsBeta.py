@@ -22,7 +22,7 @@ def buscar_edificio(nombre, edificios):
 
 def buscar_ruta(inicio, destino, conexiones):
     visitados = [inicio]
-    pendientes = [[inicio, [[inicio, "Comienza aquí."]]]]
+    pendientes = [[inicio, [[inicio, ""]]]]
     posicion = 0
     while posicion < len(pendientes):
         actual = pendientes[posicion][0]
